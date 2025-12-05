@@ -18,3 +18,5 @@ ya estoy intentando pablo, no te afanes, si quieres hazlo desde cero ya te doy l
 estoy tratando pero la verdad no se hellen nada sirve 
 PABLOOOO
 LO LOGRE 
+
+DIOSSS EN SERIO de verdad perdoname hellen nada sirve aca no se 
