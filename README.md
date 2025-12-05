@@ -33,3 +33,6 @@ como que lo siento, ayudame con los otros enpoints, y a ver si podemos crear el 
 cuales enpoints faltan ? para tenerlos en cuenta 
 Endpoints: editar osea un post, no eliminar pero marcar que el jugador o esta suspuendido o no esta en el club 
 pero revisa los enpoints que estan ahorita, por que la verdad no se si funcionen, creo que no 
+
+el profe esta mirando mucho las pestanas aca no se si lo logre sacar la verdad estaba mirando los endpointes y si quieres te mando por aqui los errores encuentro  y tu copiar y pegas ya que tienes el histroial 
+porque es que a mi se me acabo
