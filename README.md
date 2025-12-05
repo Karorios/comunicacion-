@@ -27,3 +27,4 @@ tu lo estas haciendo en visual o pycharm
 
 pycharm
 
+ya me abrio y boff la verdad rompiste lo siento en serio 
