@@ -38,3 +38,5 @@ el profe esta mirando mucho las pestanas aca no se si lo logre sacar la verdad e
 porque es que a mi se me acabo
 
 en todos los de crear me aparece error 500 no se por que 
+
+jajajajajajaja ahi si no se que hacer dios, estoy inetntando desplegarlo jajajjaja asi con errores por que tenemos muy poco tiempo, asi sea que valga un punto nada mas o no se, trata de corregir esos errores de la documentacion por fa 
