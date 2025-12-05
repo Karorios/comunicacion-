@@ -22,3 +22,5 @@ LO LOGRE
 DIOSSS EN SERIO de verdad perdoname hellen nada sirve aca no se 
 
 ACABO DE HACER COMMIT, REVISA Y AYUDAME A HACER LOS OTROS ENDPOINTS 
+
+hellen me esta dando miedo por la cam no se si la cam tiene tu angulo pero yo masomenos si voy a mirar el pull y ejectuar a ver si sirve 
