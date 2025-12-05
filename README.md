@@ -31,3 +31,5 @@ ya me abrio y boff la verdad rompiste lo siento en serio
 como que lo siento, ayudame con los otros enpoints, y a ver si podemos crear el html bien basico y se despliega y ya 
 
 cuales enpoints faltan ? para tenerlos en cuenta 
+Endpoints: editar osea un post, no eliminar pero marcar que el jugador o esta suspuendido o no esta en el club 
+pero revisa los enpoints que estan ahorita, por que la verdad no se si funcionen, creo que no 
