@@ -7,3 +7,4 @@ mira yo voy a hacer un commit, trae los cambios  por fa
 ya hice el commit, descarga los cambios 
 
 pero que cambios hiciste tu para no enredarnos con el codigo ya no hagamos mas commit hastaque sirva el /docs 
+yo hice cambios del db que no tenia unos import, y en el main tambien, estoy acomodando jugadores que manda error por importaciones de los otros archivos, por ahora voy a esperar que funcione 
