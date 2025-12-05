@@ -36,3 +36,5 @@ pero revisa los enpoints que estan ahorita, por que la verdad no se si funcionen
 
 el profe esta mirando mucho las pestanas aca no se si lo logre sacar la verdad estaba mirando los endpointes y si quieres te mando por aqui los errores encuentro  y tu copiar y pegas ya que tienes el histroial 
 porque es que a mi se me acabo
+
+en todos los de crear me aparece error 500 no se por que 
