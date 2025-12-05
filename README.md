@@ -5,3 +5,5 @@ hellen estoy sacando todo pero me da mano de errores aun no he actualizado si fu
 
 mira yo voy a hacer un commit, trae los cambios  por fa 
 ya hice el commit, descarga los cambios 
+
+pero que cambios hiciste tu para no enredarnos con el codigo ya no hagamos mas commit hastaque sirva el /docs 
