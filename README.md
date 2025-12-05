@@ -24,3 +24,6 @@ DIOSSS EN SERIO de verdad perdoname hellen nada sirve aca no se
 ACABO DE HACER COMMIT, REVISA Y AYUDAME A HACER LOS OTROS ENDPOINTS 
 
 tu lo estas haciendo en visual o pycharm 
+
+pycharm
+
