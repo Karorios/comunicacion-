@@ -40,3 +40,5 @@ porque es que a mi se me acabo
 en todos los de crear me aparece error 500 no se por que 
 
 jajajajajajaja ahi si no se que hacer dios, estoy inetntando desplegarlo jajajjaja asi con errores por que tenemos muy poco tiempo, asi sea que valga un punto nada mas o no se, trata de corregir esos errores de la documentacion por fa 
+
+eso trato pero es que el esta viendo aca los pc y esta dificil diossss saca el readme con el promop que ya tienes o mandamelo ami aca y yo lo mejore es que juto se me acabo el plusy el esta aca 
